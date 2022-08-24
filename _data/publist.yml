@@ -1,3 +1,55 @@
+-title: "ExTraMapper: Exon- and Transcript-level mappings for orthologous gene pairs"
+ image: 1.png
+ description: 
+ authors: Chakraborty A, Ay F, Davuluri RV
+ link:
+ 	url: https://academic.oup.com/bioinformatics/article/37/20/3412/6278896?login=true
+ 	display: Bioinformatics 2021 May 20;37(20):3412–20
+ highlight: 1
+ 
+ 
+-title: "DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome"
+ image: 2.png
+ description: 
+ authors: Ji Y, Zhou Z, Liu H, Davuluri RV
+ link:
+ 	url: https://academic.oup.com/bioinformatics/article/37/15/2112/6128680?login=true
+ 	display: Bioinformatics 2021 Feb 4:btab083
+ highlight: 1
+ 
+ 
+-title: "Isoform-level gene signature improves prognostic stratification and accurately classifies glioblastoma subtypes"
+ image: 3.png
+ description: 
+ authors: Pal S, Bi Y, Macyszyn L, Showe LC, O'Rourke DM, Davuluri RV
+ link:
+ 	url: https://academic.oup.com/nar/article/42/8/e64/1068506?login=true
+ 	display: Nucleic Acids Res 2014 Apr;42(8):e64
+ highlight: 1
+ 
+ 
+-title: "NPEBseq: nonparametric empirical bayesian-based procedure for differential expression analysis of RNA-seq data"
+ image: 4.png
+ description: 
+ authors: Bi Y, Davuluri RV
+ link:
+ 	url: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-262
+ 	display: BMC Bioinformatics 2013 Aug 27;14:262
+ highlight: 1
+ 
+ 
+-title: "IsoformEx: isoform level gene expression estimation using weighted non-negative least squares from mRNA-Seq data"
+ image: 5.png
+ description: 
+ authors: Kim H, Bi Y, Pal S, Gupta R, Davuluri RV
+ link:
+ 	url: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-305
+ 	display: BMC Bioinformatics 2011 Jul 27;12:305
+ highlight: 1
+ 
+
+
+
 - title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
   image: Pairs3.png
   description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
